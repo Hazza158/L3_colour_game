@@ -22,7 +22,7 @@ class Play:
 
     def __init__(self, how_many):
 
-        # self.all_colours = None     # added because PyCharm was having a hissy fit
+        # self.all_colours = None
         self.play_box = Toplevel()
 
         # If users press cross at top, closes help and
